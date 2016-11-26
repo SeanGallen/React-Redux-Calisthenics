@@ -1,3 +1,5 @@
+This is my work based off of the udemy class below.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
